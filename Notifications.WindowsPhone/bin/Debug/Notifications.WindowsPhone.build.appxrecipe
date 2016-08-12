@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-UDM2LTS</Machine>
+    <WindowsUser>Adesh Shah</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>097f040c-4df5-4d69-93dd-8f2f89476dc1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\bin\Debug\Notifications.WindowsPhone.exe">
+      <PackagePath>Notifications.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\bin\Debug\Microsoft.Band.dll">
+      <PackagePath>Microsoft.Band.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\bin\Debug\Microsoft.Band.Phone.dll">
+      <PackagePath>Microsoft.Band.Phone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\bin\Debug\Microsoft.Band.Store.dll">
+      <PackagePath>Microsoft.Band.Store.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\bin\Debug\Google.Protobuf.dll">
+      <PackagePath>Google.Protobuf.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.Shared\Assets\SampleTileIconLarge.png">
+      <PackagePath>Assets\SampleTileIconLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.Shared\Assets\SampleTileIconSmall.png">
+      <PackagePath>Assets\SampleTileIconSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\bin\Debug\Notifications.WindowsPhone.xr.xml">
+      <PackagePath>Notifications.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

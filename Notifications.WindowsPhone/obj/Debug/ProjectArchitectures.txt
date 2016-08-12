@@ -1,0 +1,1 @@
+C:\Users\Adesh Shah\Documents\Visual Studio 2015\Projects\ContextereNotification\Notifications.WindowsPhone\Notifications.WindowsPhone.csproj;neutral

@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\adesh shah\documents\visual studio 2015\projects\msband\notifications\notifications.windowsphone\obj\debug\intermediatexaml\notifications.windowsphone.exe" HashGuid="cb8e3fcb-1645-7ac6-1702-9628a211543f" />
+    <ReferenceAssembly PathName="c:\users\adesh shah\documents\visual studio 2015\projects\contexterenotification\notifications.windowsphone\bin\debug\microsoft.band.dll" HashGuid="54721cfb-7e4b-6d4e-56b7-f414314f5ff4" />
+    <ReferenceAssembly PathName="c:\users\adesh shah\documents\visual studio 2015\projects\contexterenotification\notifications.windowsphone\bin\debug\microsoft.band.phone.dll" HashGuid="696e97cc-94cd-b3a8-4710-47a68444da59" />
+    <ReferenceAssembly PathName="c:\users\adesh shah\documents\visual studio 2015\projects\contexterenotification\notifications.windowsphone\bin\debug\microsoft.band.store.dll" HashGuid="98480add-ab1a-3512-8e3a-2f4238137152" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
